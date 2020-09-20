@@ -1,0 +1,32 @@
+
+div {
+	text-align: center;
+	color:white;
+}
+
+#title{
+	font-size:4em;
+}
+#body {
+	font-size:2em;
+}
+
+#button {
+	text-align: center;
+	width:50px;
+	height: 20px;
+}
+
+.cup {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, 50%);
+	width: 150px;
+	height: 180px;
+	border: 6px solid #fff;
+	border-top: 2px solid transparent;
+	border-radius: 15px;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+}
